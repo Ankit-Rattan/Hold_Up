@@ -1,5 +1,5 @@
-# Hold-On
-When you think you have time... so HOLD-ON
+# Hold-Up
+When you think you have time... then Hold it Up
 It will suggest you different activities and tasks according to your preference based on the famous bored API.
 ## Tech Stack : 
  React, Express, Axios (Bored API), Tailwind+CSS
